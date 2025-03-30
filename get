@@ -1,5 +1,6 @@
 {
   "id": "02313",
   "authToken": "2qzANZvWRBMOq46mohdInuphO9d_2hfZprPbEhNjF6cv8DH3U",
-  "updatURL": "https://example.com"
+  "updatURL": "https://example.com",
+  "port": 3567
 }
